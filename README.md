@@ -23,7 +23,7 @@ To install and run this project:
    ```
 2. Open **ArchiCAD 27** or a later version.
 3. Create a new **.pln** file within ArchiCAD.
-4. Load the `.gsm` files included in the repository.
+4. Load the `.gsm` files included in the repository, using Archicad's Library Manager (File > Libraries and Objects > Library Manager).
 5. Add the necessary file paths and libraries to ensure linked files are properly referenced.
 
 ## Usage
